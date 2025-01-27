@@ -12,3 +12,6 @@
 5. 单击右上角的*更多*，可以修改头像的尺寸以及文字的大小
 # 效果图
 ![image](https://github.com/user-attachments/assets/8d7ad28f-c7ac-4396-b4ec-0bab83fc2e77)
+
+![image](https://github.com/user-attachments/assets/b664916c-91d7-4285-a139-40695672db7b)
+
