@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.quickdial.app-merged_res-33:/drawable_default_avatar.xml.flat",
+        "source": "com.example.quickdial.app-main-35:/drawable/default_avatar.xml"
+    },
+    {
+        "merged": "com.example.quickdial.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.quickdial.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.quickdial.app-merged_res-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.quickdial.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.quickdial.app-merged_res-33:/layout_dialog_call_confirm.xml.flat",
+        "source": "com.example.quickdial.app-main-35:/layout/dialog_call_confirm.xml"
+    },
+    {
+        "merged": "com.example.quickdial.app-merged_res-33:/layout_activity_settings.xml.flat",
+        "source": "com.example.quickdial.app-main-35:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.quickdial.app-merged_res-33:/layout_contact_item.xml.flat",
+        "source": "com.example.quickdial.app-main-35:/layout/contact_item.xml"
+    },
+    {
+        "merged": "com.example.quickdial.app-merged_res-33:/layout_activity_edit_contact.xml.flat",
+        "source": "com.example.quickdial.app-main-35:/layout/activity_edit_contact.xml"
+    },
+    {
+        "merged": "com.example.quickdial.app-merged_res-33:/drawable_ic_add.xml.flat",
+        "source": "com.example.quickdial.app-main-35:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.quickdial.app-merged_res-33:/menu_main_menu.xml.flat",
+        "source": "com.example.quickdial.app-main-35:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.quickdial.app-merged_res-33:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.quickdial.app-main-35:/drawable/ic_launcher.xml"
+    }
+]

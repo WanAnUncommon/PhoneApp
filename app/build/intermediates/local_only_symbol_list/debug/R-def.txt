@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+drawable default_avatar
+drawable ic_add
+drawable ic_launcher
+drawable ic_launcher_foreground
+id action_settings
+id avatar_size_seekbar
+id avatar_size_text
+id call_button
+id cancel_button
+id contact_image
+id contact_item_root
+id contact_name
+id dialog_message
+id dialog_title
+id edit_avatar
+id edit_name
+id edit_phone
+id fab_add
+id grid_layout
+id save_button
+id save_settings_button
+id text_size_seekbar
+id text_size_text
+layout activity_edit_contact
+layout activity_main
+layout activity_settings
+layout contact_item
+layout dialog_call_confirm
+menu main_menu
+string app_name
