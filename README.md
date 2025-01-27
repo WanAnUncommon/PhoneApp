@@ -10,3 +10,5 @@
 3. 长按头像可以编辑联系人信息
 4. 单击右下角的*加号*，可以添加联系人
 5. 单击右上角的*更多*，可以修改头像的尺寸以及文字的大小
+# 效果图
+![image](https://github.com/user-attachments/assets/8d7ad28f-c7ac-4396-b4ec-0bab83fc2e77)
